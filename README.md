@@ -1,11 +1,11 @@
 # CTEC501 Tumblr Template
-Tumblr template forked from [tumblr](https://www.tumblr.com/theme/39080), original author unknown. Didn't like the original font, and typographic choices the original author made, so I changed them. Written in HTML, CSS, & JS with code that plugs into Tumblr's [special operators](https://www.tumblr.com/docs/en/custom_themes).
+Tumblr template forked from [tumblr](https://www.tumblr.com/theme/39080), original author unknown. Didn't like the original font, and typographic choices the original author made, so I changed them. Written in HTML, CSS, & JS with code that plugs into Tumblr's [special operators](https://www.tumblr.com/docs/en/custom_themes). Embedded a PGP public key within a HTML comment before the header.
 
 Written for the CTEC501 Creative Technologies Studio I Paper at Auckland University of Technology
 
 ##Setup Instructions
 
-1.  Everything is in index.html
+1.  Everything is self contained within index.html
 2.  Open with your favourite IDE
 3.  Enjoy!
 
