@@ -1,13 +1,18 @@
-# tumblrstuff
-tumblr blog html + css
+# CTEC501 Tumblr Template
+Tumblr template forked from [tumblr](https://www.tumblr.com/theme/39080), original author unknown. Written in HTML, CSS, & JS with code that plugs into Tumblr's [special operators](https://www.tumblr.com/docs/en/custom_themes).
 
-this is a variation of pure black 156L https://www.tumblr.com/theme/39080
+Written for the CTEC501 Creative Technologies Studio I Paper at Auckland University of Technology
 
-some minor adjustments
+##Setup Instructions
+
+1.  Everything is in index.html
+2.  Open with your favourite IDE
+3.  Enjoy!
 
 
+## Licence
 
-            DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE 
-   TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
+###THE BEER-WARE LICENSE (Revision 42):
 
-  0. You just DO WHAT THE FUCK YOU WANT TO.
+[Walter Lim](mailto:waltissomewhere@gmail.com) cobbled this project together.  As long as you retain this notice you can do whatever you want with this stuff. If we meet some day, and you think this stuff is worth it, you can buy me a beer in return.
+
