@@ -1,5 +1,5 @@
 # CTEC501 Tumblr Template
-Tumblr template forked from [tumblr](https://www.tumblr.com/theme/39080), original author unknown. Written in HTML, CSS, & JS with code that plugs into Tumblr's [special operators](https://www.tumblr.com/docs/en/custom_themes).
+Tumblr template forked from [tumblr](https://www.tumblr.com/theme/39080), original author unknown. Didn't like the original font, and typographic choices the original author made, so I changed them. Written in HTML, CSS, & JS with code that plugs into Tumblr's [special operators](https://www.tumblr.com/docs/en/custom_themes).
 
 Written for the CTEC501 Creative Technologies Studio I Paper at Auckland University of Technology
 
