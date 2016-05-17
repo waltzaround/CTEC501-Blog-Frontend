@@ -6,7 +6,7 @@ Written for the CTEC501 Creative Technologies Studio I Paper at Auckland Univers
 ##Setup Instructions
 
 1.  Everything is self contained within index.html
-2.  Open with your favourite IDE
+2.  Open with your favourite text editor
 3.  Enjoy!
 
 
